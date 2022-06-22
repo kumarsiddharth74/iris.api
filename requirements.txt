@@ -31,7 +31,7 @@ jupyter-core==4.6.3
 lazy-object-proxy==1.5.0
 mccabe==0.6.1
 nbformat==5.0.7
-numpy==1.19.0
+numpy==1.22.0
 packaging==20.4
 pandas==1.0.5
 pandocfilters==1.4.2
